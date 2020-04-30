@@ -9,7 +9,7 @@ This project was made by:
 
 Le but du projet est de créer une IA pour le jeu [quarto](https://en.wikipedia.org/wiki/Quarto_(board_game)). Le code est conçue pour fonctionner contre d'autre IA via un arbitre absent du repo. L'IA est tout de même executable via un programme de test.
 
-Le projet propose plusieur implementation d'IA:
+Le projet propose plusieurs implementations d'IA:
 
 - Algo2: une implémentation d'un algo type alpha/beta
 - Algo3: une implémentation d'un algo type min/max
