@@ -1,4 +1,4 @@
-# quartoPlus
+# QuartoPlus
 
 ## Presentation
 
